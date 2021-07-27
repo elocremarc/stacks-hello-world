@@ -10,4 +10,4 @@ https://explorer.stacks.co/txid/0x47403d00e6ea807b0635e809c250f3d5c1bbf8ce9b74e9
 
 ## french bean nft
 
-https://explorer.stacks.co/txid/0x570da52506ef2a4ab226ffa1e08b7459582e9d859997c7d07ad94fc93320abb9?chain=mainnet
+https://explorer.stacks.co/txid/0x70bcd7b4f8a42d49c1917bf0debf310e845f4619a64f9032e300691294f9b799?chain=mainnet
